@@ -1,0 +1,23 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\spide\Desktop\adam asmaca\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\spide\Desktop\adam asmaca\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\spide\Desktop\adam asmaca\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\spide\Desktop\adam asmaca\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\spide\Desktop\adam asmaca\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\spide\Desktop\adam asmaca\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\spide\Desktop\adam asmaca\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\spide\Desktop\adam asmaca\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\spide\Desktop\adam asmaca\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.adamasmaca.resources
+D:\adam asmaca\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\adam asmaca\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\adam asmaca\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Developer Files\karışık dosyalarım\adam asmaca\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Developer Files\karışık dosyalarım\adam asmaca\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Developer Files\karışık dosyalarım\adam asmaca\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
